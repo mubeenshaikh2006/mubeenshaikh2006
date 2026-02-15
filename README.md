@@ -1,16 +1,25 @@
-## Hi there 👋
+## 👋 Welcome to My GitHub
 
-<!--
-**mubeenshaikh2006/mubeenshaikh2006** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst focused on learning from data and turning it into clear, useful insights.
+I enjoy working with datasets, building dashboards, and improving my analytical skills step by step.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Skills & Tools
+
+📊 Excel – Data Cleaning, Analysis, Reports
+📈 Power BI – Interactive Dashboards & Visualization
+🗄️ SQL – Data Querying & Basic Data Management
+🐍 Python – Data Analysis (Learning & Practice)
+
+---
+
+## 🌱 Currently Improving
+
+Working on real-world datasets to strengthen analysis, visualization, and problem-solving skills.
+
+---
+
+## 🎯 Goal
+
+To use data for better understanding, smarter decisions, and meaningful solutions.
