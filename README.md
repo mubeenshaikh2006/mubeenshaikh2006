@@ -1,20 +1,27 @@
-🌟 Hey there, welcome to my GitHub!
+🌟 **Hey there, I’m glad you’re here!**
 
-Glad you’re here! This is my space where I’m learning, practicing, and growing as a Data Analyst.
-I enjoy working with data, understanding patterns, and turning raw information into simple insights that actually make sense.
+Welcome to my GitHub space!
+I’m a beginner **Data Analyst** learning how to work with data, understand patterns, and turn raw information into meaningful insights.
 
-Here, you’ll find:
+Here, you'll find:
 
 🛠️ Practice projects I build while learning data analysis
-📊 Dashboards and reports created using real datasets
-📚 Concepts and techniques I explore to improve step by step
-🌱 My journey of becoming confident in working with data
+📊 Dashboards created to understand real-world datasets
+📚 Concepts and techniques I explore step by step
+🌱 My journey of growing into a confident Data Analyst
 
-Whether you're here to explore, learn along with me, or see how a beginner grows in analytics — you're in the right place!
+Whether you're here to explore, learn, or see how I’m building my skills — you're in the right place!
 
-Let’s learn and grow together, one dataset at a time. ☕📈
+Let’s learn and grow together — one dataset at a time. 📈
 
 ---
 
-💻 Skills I’m Working With:
-Excel • Power BI • SQL • Python • Data Visualization
+### 💻 Tech Stack
+
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge\&logo=powerbi\&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge\&logo=database\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
+
+---
