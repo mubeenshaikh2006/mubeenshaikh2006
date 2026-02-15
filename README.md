@@ -25,3 +25,7 @@ Let’s learn and grow together — one dataset at a time. 📈
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-FF6F00?style=for-the-badge\&logo=chartdotjs\&logoColor=white)
 
 ---
+
+⭐ Your visit means a lot! Explore the projects and see my progress as a Data Analyst.
+
+---
